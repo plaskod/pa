@@ -1,0 +1,2 @@
+Biblioteki w pythonie: bokeh, plotly
+
